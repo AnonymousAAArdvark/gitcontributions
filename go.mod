@@ -1,4 +1,4 @@
-module gogitlocalstats
+module gitcontributions
 
 go 1.16
 
